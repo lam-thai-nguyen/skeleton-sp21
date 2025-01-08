@@ -23,6 +23,6 @@
 ## Resources
 
 - Material Order: https://sp21.datastructur.es/materials/guides/getting-started
-- Gradescope: https://www.gradescope.com/
+- Gradescope: https://www.gradescope.com/ (N.B. use course activation code from [cs61b-fa20](https://fa20.datastructur.es/about.html#auditing-cs61b))
 - Skeleton repo: https://github.com/Berkeley-CS61B/skeleton-sp21
 - Textbook: https://joshhug.gitbooks.io/hug61b/content/
